@@ -40,9 +40,9 @@ Building AI-integrated applications focused on accessibility, multilingual inter
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bharathjilkapalli-rgb&show_icons=true&hide_border=true&rank_icon=github)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=bharathjilkapalli-rgb&show_icons=true&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bharathjilkapalli-rgb&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bharathjilkapalli-rgb&layout=compact&hide_border=true)
 
 ## 🛠 Badges
 
